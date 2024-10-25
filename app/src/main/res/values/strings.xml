@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kalkulator</string>
+    <string name="hasil">Hasil</string>
+    <string name="inputPanjang">Input Panjang</string>
+    <string name="inputLebar">Input Lebar</string>
+    <string name="inpuTinggi">Input TInggi</string>
+    <string name="buttonBalok">Button Balok</string>
+
+</resources>
